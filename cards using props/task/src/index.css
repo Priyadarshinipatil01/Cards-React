@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.group{
+  margin: 3%;
+  padding: 5%;
+  column-gap: 2%;
+  border: 1px solid gray;
+  background-color: #2E2E2E;
+}
+.group1{
+  background-color: #2E2E2E;
+}
+.footer{
+  background-color: #2E2E2E;
+  
+
+}
+.colo{
+  border-radius:12px;
+ 
+}
